@@ -1,4 +1,11 @@
 ### Hi there 👋
+### Boas vindas ao meu perfil :andersinho007
+
+Meu nome é Anderson
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 <!--
 **andersinho007/andersinho007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
